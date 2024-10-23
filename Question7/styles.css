@@ -1,0 +1,10 @@
+.font{
+
+        width: 220px;
+        text-align: center;
+        padding-left: 11px;
+        margin-bottom: 20px;
+        font-size: 35px;
+        color: darkorange;
+        background-color:black;
+}
